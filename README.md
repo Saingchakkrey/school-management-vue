@@ -1,4 +1,4 @@
-# school-management-vue
+# school-management-vue2
 
 ## Project setup
 ```
